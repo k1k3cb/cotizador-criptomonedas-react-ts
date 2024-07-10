@@ -16,9 +16,13 @@ Aplicación para consultar la cotización de criptomonedas en tiempo real.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
+- Integración Vite y Typescrip.
+
 - Usar [React Router ](https://reactrouter.com/en/main)  para gestionar rutas.
 
 - Formularios con [React Hook From ](https://react-hook-form.com/).
+
+- Fetch de datos con [Axios ](https://axios-http.com/es/).
 
 - Estilos con [Tailwind CSS ](https://tailwindcss.com/).
 
@@ -34,9 +38,11 @@ Aplicación para consultar la cotización de criptomonedas en tiempo real.
 
 [![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://es.react.dev/)
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
 [![ZOD](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7)](https://zustand-demo.pmnd.rs/)
 [![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![AXIOS](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/es/)
 
 
 
